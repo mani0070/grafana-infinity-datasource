@@ -1,6 +1,6 @@
 {
   "name": "grafana-infinity-datasource",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "JSON, CSV, XML, GraphQL & HTML datasource for Grafana. Do infinite things with Grafana.",
   "main": "dist/module.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yesoreyeram/grafana-infinity-datasource.git"
+    "url": "git+https://github.com/mani0070/grafana-infinity-datasource.git"
   },
   "keywords": [
     "grafana",
