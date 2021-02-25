@@ -64,7 +64,7 @@ For reference, JSON data from the URL is given below
 
 ## CSV
 
-Same as JSON, you can visualize any csv URL using the datasource. CSVs are expected to have headers. You can visualize CSV just using the url and wihtout any additional configuration. By default all the CSV fields will be considered as text fields. If you specify individual fields and types, only the specific fields will be displayed. More information about using CSV datasource is available in the [github discussion](https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/36).
+Same as a JSON, you can visualize any csv URL using the datasource. CSVs are expected to have headers. You can visualize CSV just using the url and wihtout any additional configuration. By default all the CSV fields will be considered as text fields. If you specify individual fields and types, only the specific fields will be displayed. More information about using CSV datasource is available in the [github discussion](https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/36).
 
 ![image](https://user-images.githubusercontent.com/153843/108428461-8465da00-7236-11eb-8769-b1c145cbe203.png)
 

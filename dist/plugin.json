@@ -6,8 +6,8 @@
   "annotations": false,
   "info": {
     "version": "0.6.0",
-    "updated": "2021-02-18",
-    "description": "JSON, CSV, XML, GraphQL & HTML datasource for Grafana. Do infinite things with Grafana.",
+    "updated": "2021-02-25",
+    "description": "JSON, CSV, XML, GraphQL & HTML datasource for Grafana. Do infinite things with Grafana. ",
     "author": {
       "name": "Sriramajeyam Sugumaran",
       "url": "https://www.google.com/search?q=Sriramajeyam+Sugumaran"
